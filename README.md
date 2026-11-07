@@ -5,7 +5,7 @@
 MG AIOS is a free, zero-code AI Operating System that gives ChatGPT, Gemini, or Claude instant permanent memory—no coding, API keys, or subscriptions required.
 
 ## Quickstart (3 Steps):
-0. **Download MG AIOS:** [Click here to go to the v1.0.0 Release page](https://github.com) and click **Source code (zip)** to download.
+0. **Download MG AIOS:** Scroll up, click the green **`<> Code`** button, and select **Download ZIP**.
 1. **Set Your Memory:** Open `My-Profile.md`, fill in your info, and save.
 2. **Boot Up:** Copy everything inside `My-Profile.md` and paste it into any AI chat.
 3. **Run Workflows:** Pick a prompt from `Super-Prompts.md` to start working immediately.
